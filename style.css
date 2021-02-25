@@ -8,27 +8,27 @@ h1 {
   font-size: 25px;
 }
 nav a {
-  text-align: 10px;
+  text-align: 10px; 
   background-color: gray;
 }
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 700px;
 }
 #featured-property p {
-  width: 700px; 
+  width: 700px;
   text-align: center;
-  margin-left: auto; 
+  margin-left: auto;
   margin-right: auto;
 }
 #details div {
     
-    float: left; 
-    background-color: red;
-    text-align: center;
-    width: 25%;
-    margin: auto
-    padding: 10 px;
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  margin: auto
+  padding: 10 px;
 }
